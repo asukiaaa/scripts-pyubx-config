@@ -49,3 +49,8 @@ result
 ## License
 
 MIT
+
+## References
+
+- [pyubx2を利用してZED-F9Pの設定を変更するスクリプトを作った](https://asukiaaa.blogspot.com/2024/02/config-command-for-zed-f9p-with-using-pyubx2.html)
+- [pyubx2](https://github.com/semuconsulting/pyubx2)
