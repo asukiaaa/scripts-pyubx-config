@@ -10,7 +10,7 @@ pip3 install serial pyubx2 click
 
 ## Usage
 
-Some key for configuration is defined in 
+Keys for configuration is defined as [UBX_CONFIG_DATABASE](https://github.com/semuconsulting/pyubx2/blob/b55d97c5c4f7f0d4547b24074efd4caead090e60/src/pyubx2/ubxtypes_configdb.py#L69) in [pyubx2](https://github.com/semuconsulting/pyubx2).
 
 ### Set
 
