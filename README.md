@@ -1,4 +1,4 @@
-# scripts-puubx-config
+# scripts-pyubx-config
 
 A repository to hold python scripts to configure variables of ZED-F9P.
 
